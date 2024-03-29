@@ -1,4 +1,5 @@
-# Mall-Customer-Segmentation
+# Wholesale-Distributor-Customer-Segmentation
+
 
 
 
