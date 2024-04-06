@@ -11,6 +11,11 @@ In this project, we analyze a dataset containing data on various customers' annu
 - Outlier Removal
   ![2](https://github.com/Venura-94/Wholesale-Distributor-Customer-Segmentation/assets/137409412/8c89a201-fe89-4a16-88c9-72073e29295a)
 
+- Correlation Matrix
+
+  ![3](https://github.com/Venura-94/Wholesale-Distributor-Customer-Segmentation/assets/137409412/996c0c6a-776b-4afa-bbb5-0e995dfebaac)
+
+
 - Employed techniques like Principal Component Analysis (PCA) to reduce dimensionality and uncover underlying structures.
   
 ![4](https://github.com/Venura-94/Wholesale-Distributor-Customer-Segmentation/assets/137409412/10e23227-6cd3-4ac6-aef1-24657dd9021c)
