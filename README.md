@@ -1,6 +1,6 @@
-## Let me explain the summary of the project according to its tasks
+# Let me explain the summary of the project according to its tasks
 
-### Overview
+## Overview
 In this project, we analyze a dataset containing data on various customers' annual spending amounts across diverse product categories. The goal is to identify distinct customer segments and derive insights to inform business strategies, particularly in optimizing delivery services.
 
 ### Data Analysis and Preprocessing
