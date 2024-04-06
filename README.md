@@ -17,8 +17,8 @@ In this project, we analyze a dataset containing data on various customers' annu
 
   ![5](https://github.com/Venura-94/Wholesale-Distributor-Customer-Segmentation/assets/137409412/3b389adb-9c66-4ac2-aa46-b21ae4ff09b6)
 
-
 ### Cluster Identification
+
 - Utilized K-Means clustering to identify distinct customer segments based on spending patterns.
 
 - Identified five clusters representing different customer groups with unique spending behaviors.
@@ -27,10 +27,10 @@ In this project, we analyze a dataset containing data on various customers' annu
 
 ### Evaluation of Clusters
 - Examined cluster centers to understand spending behavior and compared it with the overall dataset.
+
 ![image](https://github.com/Venura-94/Wholesale-Distributor-Customer-Segmentation/assets/137409412/6199ba16-7d26-425c-be6a-1259e121a3b3)
-![c2](https://github.com/Venura-94/Wholesale-Distributor-Customer-Segmentation/assets/137409412/38be4794-4602-4afb-91ba-e532b071d7b0)
 
-
+![cI](https://github.com/Venura-94/Wholesale-Distributor-Customer-Segmentation/assets/137409412/08490f84-c36c-41a1-80e1-655348aeaa78)
 
 ### Application and Interpretation
 - Leveraged clusters to derive actionable insights, such as determining customer reactions to changes in delivery services.
